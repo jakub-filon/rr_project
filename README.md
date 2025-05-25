@@ -17,9 +17,6 @@ A Python-based translation and extension of the original R methodology for forec
 - [Results Summary](#results-summary)  
 - [Project Structure](#project-structure)  
 - [Installation & Dependencies](#installation--dependencies)  
-- [Usage](#usage)  
-- [Contributing](#contributing)  
-- [License](#license)  
 
 ---
 
@@ -101,7 +98,7 @@ Each resampling variation is evaluated using the same modeling pipeline.
 ├── notebooks/ # Jupyter notebooks (translation & data preprocessing)
 ├── plots/ # Legacy charts and figures from R pipeline
 ├── requirements.txt # Python dependencies
-└── README.md # Project overview and instructions
+├── README.md # Project overview and instructions
 └── SPXdescription # Description of the legacy data
 ```
 
