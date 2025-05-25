@@ -120,3 +120,15 @@ Each resampling variation is evaluated using the same modeling pipeline.
    ```bash
    pip install -r requirements.txt
    ```
+
+## Software versions used
+
+- Python 3.12.9
+- imbalanced-learn 0.13.0
+- matplotlib 3.10.3
+- numpy 2.2.6
+- pandas 2.2.3
+- PyWavelets 1.8.0
+- pytz 2025.2
+- scikit-learn 1.6.1
+- seaborn 0.13.2
