@@ -6,8 +6,7 @@ A Python-based translation and extension of the original R methodology for forec
 
 ## 📖 Table of Contents
 
-- [Overview](#overview)  
-- [Key Notebooks](#key-notebooks)  
+- [Overview](#overview)    
 - [Data](#data)  
 - [Methodology](#methodology)  
   - [1. Target Construction](#1-target-construction)  
@@ -17,7 +16,7 @@ A Python-based translation and extension of the original R methodology for forec
 - [Results Summary](#results-summary)  
 - [Project Structure](#project-structure)  
 - [Installation & Dependencies](#installation--dependencies)  
-
+- [Software Versions Used](#software-versions-used)
 ---
 
 ## Overview
